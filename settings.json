@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DominiomSMP.aternos.me",
+    "ip": "DominiomSMP.aternos.me:64071",
     "port": 64071,
     "version": "",
     "try-creative": false
